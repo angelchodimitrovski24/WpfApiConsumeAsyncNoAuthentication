@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApiConsumeAsync", "WpfApiConsumeAsync\WpfApiConsumeAsync.csproj", "{EB9B1A0A-7CAF-4FDD-AF38-E787375D901F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{9F68668A-BAB2-4797-9764-57CA2D6206BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9B1A0A-7CAF-4FDD-AF38-E787375D901F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9B1A0A-7CAF-4FDD-AF38-E787375D901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9B1A0A-7CAF-4FDD-AF38-E787375D901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9B1A0A-7CAF-4FDD-AF38-E787375D901F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F68668A-BAB2-4797-9764-57CA2D6206BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F68668A-BAB2-4797-9764-57CA2D6206BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F68668A-BAB2-4797-9764-57CA2D6206BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F68668A-BAB2-4797-9764-57CA2D6206BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED82A6B1-45D5-4F0C-B6BA-42AAEA377474}
+	EndGlobalSection
+EndGlobal
